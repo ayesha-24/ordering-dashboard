@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import Welcome from "./pages/welcome";
+import Welcome from "./pages/Welcome";
 
 function App() {
   return (
